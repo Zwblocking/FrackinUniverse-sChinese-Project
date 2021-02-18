@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "一具尸体",
-      "Eng": "A cadaver"
+      "Eng": "Cadaver"
     }
   },
   {
@@ -19,8 +18,7 @@
       ]
     },
     "Texts": {
-      "Chs": "死因至今尚未确定。解剖以获知详细。",
-      "Eng": "Cause of death thus far undetermined. Autopsy for details."
+      "Eng": "Cause of death thus far: undetermined. Autopsy for details."
     }
   }
 ]

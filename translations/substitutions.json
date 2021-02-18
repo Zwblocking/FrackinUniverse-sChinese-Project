@@ -2500,9 +2500,6 @@
   "interface/objectcrafting/fu_warped3.config": {
     "/gui/lblText/value": "texts/interface/objectcrafting/shared_fu_warped.json"
   },
-  "interface/scripted/collections/collectionsgui.config": {
-    "/gui/scrollAreaCustom/children/customCollectionList/schema/listTemplate/collectionName/value": "texts/wide_spread_fields.json"
-  },
   "interface/scripted/fm_musicplayer/fm_musicplayer.config": {
     "/gui/search/hint": "texts/wide_spread_fields.json",
     "/gui/settings/children/offsetter/value": "texts/interface.json"
@@ -4825,7 +4822,7 @@
     "/description": "texts/items/armors/shared_back.json"
   },
   "items/armors/backitems/slimeinvisibleback/invisible.back": {
-    "/description": "texts/items/armors/shared_invisible/shared_invisible..json"
+    "/description": "texts/items.json"
   },
   "items/armors/backitems/tw_spacepunkback/tw_spacepunk.back": {
     "/description": "texts/items/armors/backitems/shared_tw_space/shared_tw_space.json"
@@ -5082,14 +5079,14 @@
     "/shortdescription": "texts/items/armors/shared_slimenoble/shared_slimenoble.json"
   },
   "items/armors/slimeperson/slimeperson-invisible/invisible.chest": {
-    "/description": "texts/items/armors/shared_invisible/shared_invisible..json",
+    "/description": "texts/items.json",
     "/shortdescription": "texts/items/armors/shared_invis/shared_.chest.json"
   },
   "items/armors/slimeperson/slimeperson-invisible/invisible.head": {
-    "/description": "texts/items/armors/shared_invisible/shared_invisible..json"
+    "/description": "texts/items.json"
   },
   "items/armors/slimeperson/slimeperson-invisible/invisible.legs": {
-    "/description": "texts/items/armors/shared_invisible/shared_invisible..json",
+    "/description": "texts/items.json",
     "/shortdescription": "texts/items/armors/shared_invis/shared_invis.json"
   },
   "items/armors/slimeperson/slimeperson-tier1/slimepersontier1.chest": {
@@ -9172,6 +9169,26 @@
   },
   "items/throwables/whiteglowstick.thrownitem": {
     "/description": "texts/items/throwables/shared_glowstick.thrownitem.json"
+  },
+  "items/tools/inspectiontool/scantoolproto.inspectiontool": {
+    "/nothingThereText/default/0": "texts/shared_ect.json",
+    "/nothingThereText/default/1": "texts/items.json",
+    "/nothingThereText/glitch/0/glitchEmote": "texts/glitchEmotes.json",
+    "/nothingThereText/glitch/0/glitchEmotedText": "texts/shared_ect.json",
+    "/nothingThereText/glitch/1/glitchEmote": "texts/glitchEmotes.json",
+    "/nothingThereText/glitch/1/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/nothingThereText/glitch/2/glitchEmote": "texts/glitchEmotes.json",
+    "/nothingThereText/glitch/2/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/nothingThereText/glitch/3/glitchEmote": "texts/glitchEmotes.json",
+    "/nothingThereText/glitch/3/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/outOfRangeText/glitch/0/glitchEmote": "texts/glitchEmotes.json",
+    "/outOfRangeText/glitch/0/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/outOfRangeText/glitch/1/glitchEmote": "texts/glitchEmotes.json",
+    "/outOfRangeText/glitch/1/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/outOfRangeText/glitch/2/glitchEmote": "texts/glitchEmotes.json",
+    "/outOfRangeText/glitch/2/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json",
+    "/outOfRangeText/glitch/3/glitchEmote": "texts/glitchEmotes.json",
+    "/outOfRangeText/glitch/3/glitchEmotedText": "texts/items/tools/inspectiontool/scantoolproto.inspectiontool.json"
   },
   "items/tools/miningtools/beamaxeapex.beamaxe": {
     "/description": "texts/items/tools/miningtools/shared_.beamaxe.json"
@@ -20651,32 +20668,32 @@
     "/apexDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/avianDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
-    "/hylotlDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json"
+    "/hylotlDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json"
   },
   "objects/mantizi/imperialchairtall/imperialchairtall.object": {
     "/apexDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/avianDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
-    "/hylotlDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json"
+    "/hylotlDescription": "texts/objects/mantizi/shared_imperialchair/shared_imperialchair.json"
   },
   "objects/mantizi/imperialchest/imperialchest.object": {
     "/apexDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/avianDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/description": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/hylotlDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/shortdescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json"
   },
   "objects/mantizi/imperialchestlong/imperialchestlong.object": {
@@ -20684,11 +20701,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/description": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/hylotlDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json",
     "/shortdescription": "texts/objects/mantizi/shared_imperialchest/shared_imperialchest.json"
   },
   "objects/mantizi/imperialcouch/imperialcouch.object": {
@@ -20729,31 +20746,31 @@
   "objects/mantizi/imperialtable/imperialtable.object": {
     "/avianDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
-    "/hylotlDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json"
+    "/hylotlDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json"
   },
   "objects/mantizi/imperialtableshort/imperialtableshort.object": {
     "/avianDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
     "/humanDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
-    "/hylotlDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json"
+    "/hylotlDescription": "texts/objects/mantizi/shared_imperialtable/shared_imperialtable.json"
   },
   "objects/mantizi/imperialvaselarge1/imperialvaselarge1.object": {
     "/apexDescription": "texts/objects/shared_vase/shared_.object.json",
     "/avianDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/description": "texts/objects/mantizi/shared_imperialvaselarge/shared_imperialvaselarge.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json"
   },
   "objects/mantizi/imperialvaselarge2/imperialvaselarge2.object": {
@@ -20761,11 +20778,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/description": "texts/objects/mantizi/shared_imperialvaselarge/shared_imperialvaselarge.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json",
     "/shortdescription": "texts/objects/shared_large/shared_.object.json"
   },
@@ -20774,11 +20791,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/description": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json"
   },
   "objects/mantizi/imperialvasemedium2/imperialvasemedium2.object": {
@@ -20786,11 +20803,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/description": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json"
   },
   "objects/mantizi/imperialvasesmall1/imperialvasesmall1.object": {
@@ -20798,11 +20815,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialvasesmall/shared_imperialvasesmall.json",
     "/description": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json"
   },
   "objects/mantizi/imperialvasesmall2/imperialvasesmall2.object": {
@@ -20810,11 +20827,11 @@
     "/avianDescription": "texts/objects/mantizi/shared_imperialvasesmall/shared_imperialvasesmall.json",
     "/description": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/floranDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
+    "/fumantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_vase/shared_.object.json",
     "/humanDescription": "texts/objects/shared_vase/shared_.object.json",
     "/hylotlDescription": "texts/objects/shared_vase/shared_.object.json",
-    "/mantiziDescription": "texts/objects/mantizi/shared_imperialvase/shared_imperialvase.json",
     "/novakidDescription": "texts/objects.json"
   },
   "objects/mantizi/imperialwalllight/imperialwalllight.object": {
@@ -20824,6 +20841,10 @@
   "objects/mantizi/imperialwallshield/imperialwallshield.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/imperialwallshield/imperialwallshield.object.json"
+  },
+  "objects/mantizi/mantizisandwichpainting/mantizisandwichpainting.object": {
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/mantizi/mantizisandwichpainting/mantizisandwichpainting.object.json"
   },
   "objects/mantizi/mantizistoragelocker/mantizistoragelocker.object": {
     "/apexDescription": "texts/objects/shared_storage/shared_locker.json",
@@ -22834,16 +22855,13 @@
     "/description": "texts/objects/minibiome/precursor/precursorcrates/shared_precursorcrate.json"
   },
   "objects/minibiome/precursor/precursorcrystals/precursorcrystal1.object": {
-    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json",
-    "/shortdescription": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
+    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
   },
   "objects/minibiome/precursor/precursorcrystals/precursorcrystal2.object": {
-    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json",
-    "/shortdescription": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
+    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
   },
   "objects/minibiome/precursor/precursorcrystals/precursorcrystal3.object": {
-    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json",
-    "/shortdescription": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
+    "/description": "texts/objects/minibiome/precursor/precursorcrystals/shared_precursorcrystal.json"
   },
   "objects/minibiome/precursor/precursordatabox/precursordatabox.object": {
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -24078,6 +24096,7 @@
     "/glitchDescription/glitchEmotedText": "texts/objects/novakid/rootpopad/rootpopad.object.json"
   },
   "objects/novakid/rubblepile/rubblepile.object": {
+    "/avianDescription": "texts/shared_ect.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/novakid/rubblepile/rubblepile.object.json"
   },
@@ -26829,11 +26848,11 @@
     "/apexDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/avianDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/floranDescription": "texts/objects/ship/shared_ster/shared_ster.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_boosterflamemantizi/shared_boosterflamemantizi.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_ster/shared_ster.json",
     "/humanDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/hylotlDescription": "texts/objects/ship/shared_ster/shared_ster.json",
-    "/mantiziDescription": "texts/objects/ship/shared_boosterflamemantizi/shared_boosterflamemantizi.object.json",
     "/shortdescription": "texts/objects/ship/shared_ooster/shared_ooster.json"
   },
   "objects/ship/boosterflameveluu/boosterflameveluu.object": {
@@ -27027,11 +27046,11 @@
     "/avianDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/description": "texts/objects/ship/brokenmantizifuelhatch/shared_brokenmantizifuelhatch.json",
     "/floranDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/humanDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/hylotlDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
-    "/mantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/shortdescription": "texts/objects/ship/brokenmantizifuelhatch/shared_brokenmantizifuelhatch.json"
   },
   "objects/ship/brokenmantizifuelhatch/brokenmantizifuelhatchtier0.object": {
@@ -27039,11 +27058,11 @@
     "/avianDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/description": "texts/objects/ship/brokenmantizifuelhatch/shared_brokenmantizifuelhatch.json",
     "/floranDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/humanDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/hylotlDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
-    "/mantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/shortdescription": "texts/objects/ship/brokenmantizifuelhatch/shared_brokenmantizifuelhatch.json"
   },
   "objects/ship/brokennightarfuelhatch/brokennightarfuelhatch.object": {
@@ -29380,21 +29399,21 @@
   "objects/ship/mantizicaptainschair/mantizicaptainschair.object": {
     "/apexDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json",
     "/avianDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json",
     "/humanDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json",
-    "/hylotlDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json",
-    "/mantiziDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.json"
+    "/hylotlDescription": "texts/objects/ship/shared_captainschair/shared_captainschair.object.json"
   },
   "objects/ship/mantizifuelhatch/mantizifuelhatch.object": {
     "/apexDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/avianDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/floranDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/humanDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/hylotlDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
-    "/mantiziDescription": "texts/objects/ship/shared_fuelhatch/shared_fuelhatch.json",
     "/shortdescription": "texts/objects/ship/shared_ifuelhatch/shared_fuelhatch.json"
   },
   "objects/ship/mantizishipdoor/mantizishipdoor.object": {
@@ -29402,11 +29421,11 @@
     "/avianDescription": "texts/objects/shared_door/shared_door.object.json",
     "/description": "texts/objects/ship/shared_mantizishipdoor/shared_mantizishipdoor.json",
     "/floranDescription": "texts/objects/shared_door.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_door/shared_door.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.object.json",
-    "/mantiziDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.json",
     "/novakidDescription": "texts/objects/shared_door/shared_door.object.json",
     "/shortdescription": "texts/objects/ship/shared_mantizishipdoor/shared_mantizishipdoor.json"
   },
@@ -29415,11 +29434,11 @@
     "/avianDescription": "texts/objects/shared_shiphatch.json",
     "/description": "texts/objects/shared_shiphatch.json",
     "/floranDescription": "texts/objects/shared_shiphatch.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_ship/shared_shiphatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_shipdoor/shared_shiphatch.object.json",
     "/humanDescription": "texts/objects/ship/shared_shipdoor/shared_shiphatch.object.json",
     "/hylotlDescription": "texts/objects/shared_shiphatch.json",
-    "/mantiziDescription": "texts/objects/ship/shared_ship/shared_shiphatch.json",
     "/novakidDescription": "texts/objects/ship/shared_shipdoor/shared_shiphatch.object.json"
   },
   "objects/ship/mantizishipdoorbroken/mantizishipdoorbroken.object": {
@@ -29436,10 +29455,10 @@
   },
   "objects/ship/mantizishiplocker/mantizishiplocker.object": {
     "/description": "texts/objects/ship/shared_mantizishiplocker/shared_mantizishiplocker.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_shiplocker/shared_shiplocker.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/mantizishiplocker/mantizishiplocker.object.json",
     "/humanDescription": "texts/objects/ship/shared_shiplocker/shared_shiplocker.object.json",
-    "/mantiziDescription": "texts/objects/ship/shared_shiplocker/shared_shiplocker.json",
     "/shortdescription": "texts/objects/ship/shared_mantizishiplocker/shared_mantizishiplocker.json"
   },
   "objects/ship/mantizishiplockertier0/mantizishiplockertier0.object": {
@@ -29465,11 +29484,11 @@
     "/dialog/wakeUp/3/0": "texts/objects/ship/shared_techstation/shared_techstation.json",
     "/dialog/wakeUp/4/0": "texts/objects/ship/shared_techstation/shared_techstation.json",
     "/floranDescription": "texts/objects/ship/shared_techstation/shared_techstation.object.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_techstation/shared_techstation.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_techstation/shared_techstation.object.json",
     "/humanDescription": "texts/objects/ship/shared_techstation/shared_techstation.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_techstation/shared_techstation.object.json",
-    "/mantiziDescription": "texts/objects/ship/shared_techstation/shared_techstation.json",
     "/novakidDescription": "texts/objects/ship/shared_techstation/shared_techstation.object.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
@@ -29489,11 +29508,11 @@
     "/avianDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.object.json",
     "/description": "texts/objects/ship/shared_mantiziteleporter/shared_mantiziteleporter.json",
     "/floranDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/humanDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
-    "/mantiziDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/novakidDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/shortdescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json"
   },
@@ -29502,11 +29521,11 @@
     "/avianDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/description": "texts/objects/ship/shared_mantiziteleporter/shared_mantiziteleporter.json",
     "/floranDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/humanDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
-    "/mantiziDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/novakidDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/shortdescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json"
   },
@@ -29579,11 +29598,11 @@
     "/apexDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/avianDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/floranDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/humanDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/hylotlDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
-    "/mantiziDescription": "texts/objects/ship/shared_teleporter/shared_ier0.object.json",
     "/novakidDescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json",
     "/shortdescription": "texts/objects/ship/shared_teleporter/shared_teleporter.json"
   },
@@ -30833,11 +30852,11 @@
     "/apexDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/avianDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/floranDescription": "texts/objects/ship/shared_ster/shared_ster.json",
+    "/fumantiziDescription": "texts/objects/ship/shared_boosterflamemantizi/shared_boosterflamemantizi.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/shared_ster/shared_ster.json",
     "/humanDescription": "texts/objects/ship/shared_ster/shared_ster.json",
     "/hylotlDescription": "texts/objects/ship/shared_ster/shared_ster.json",
-    "/mantiziDescription": "texts/objects/ship/shared_boosterflamemantizi/shared_boosterflamemantizi.object.json",
     "/shortdescription": "texts/objects/ship/shared_ooster/shared_ooster.json"
   },
   "objects/ship/smallboosterflameveluu/smallboosterflameveluu.object": {

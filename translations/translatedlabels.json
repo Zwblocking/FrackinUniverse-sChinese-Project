@@ -1862,9 +1862,6 @@
         "veluuish4.codex.json": 4
       }
     },
-    "collections": {
-      "fu_monster.collection.json": 1
-    },
     "dialog": {
       "brewmaster.config.json": 84,
       "catconverse.config.json": 109,
@@ -2002,9 +1999,6 @@
         "warpedcompressor.config.json": 2
       },
       "scripted": {
-        "collections": {
-          "collectionsgui.config.json": 5
-        },
         "fm_musicplayer": {
           "fm_musicplayer.config.json": 5
         },
@@ -5026,9 +5020,6 @@
           "shared_.chest.json": 1,
           "shared_invis.json": 1
         },
-        "shared_invisible": {
-          "shared_invisible..json": 1
-        },
         "shared_sciencefu.json": 3,
         "shared_slimenoble": {
           "shared_slimenoble.json": 2
@@ -6398,10 +6389,10 @@
           "blooddiamond.item.json": 1,
           "brain.item.json": 2,
           "brainpeerless.item.json": 2,
-          "cadaver.item.json": 2,
-          "cadaveralien.item.json": 2,
-          "cadaverbirb.item.json": 2,
-          "cadaverrotting.item.json": 2,
+          "cadaver.item.json": 0,
+          "cadaveralien.item.json": 1,
+          "cadaverbirb.item.json": 1,
+          "cadaverrotting.item.json": 1,
           "calciumnitrate.item.json": 2,
           "cellmateria.item.json": 2,
           "chemlab": {
@@ -6659,9 +6650,9 @@
           "waxchunk.item.json": 2,
           "wovencrystal.item.json": 2,
           "wrappedbody.item.json": 2,
-          "wrappedbodyalien.item.json": 2,
+          "wrappedbodyalien.item.json": 1,
           "wrappedbodybirb.item.json": 2,
-          "wrappedbodyputrid.item.json": 2,
+          "wrappedbodyputrid.item.json": 1,
           "xenostation": {
             "gene_adaptivecell.item.json": 2,
             "gene_agility.item.json": 2,
@@ -7691,7 +7682,7 @@
         "redhoneycombmaterial.matitem.json": 1,
         "redhoneyplatform.matitem.json": 1,
         "redslate2.matitem.json": 1,
-        "redwoodbark.matitem.json": 1,
+        "redwoodbark.matitem.json": 0,
         "retexaetherdust.matitem.json": 1,
         "retexaetherdustpillar.matitem.json": 3,
         "retexcobblestone.matitem.json": 2,
@@ -7834,6 +7825,9 @@
         "fuflashlight.flashlight.json": 2,
         "fumastermanipulator.beamaxe.json": 2,
         "handhoe.tillingtool.json": 2,
+        "inspectiontool": {
+          "scantoolproto.inspectiontool.json": 0
+        },
         "miningtools": {
           "beamaxeapex.beamaxe.json": 1,
           "beamaxeelunite.beamaxe.json": 1,
@@ -7854,7 +7848,7 @@
         "wiretoolfu.wiretool.json": 2
       }
     },
-    "items.json": 2,
+    "items.json": 3,
     "liquids": {
       "alienjuice.liquid.json": 1,
       "beer.liquid.json": 1,
@@ -9678,6 +9672,8 @@
       "forestoffae": {
         "shared_grimdarkcultist.npctype.json": 6
       },
+      "fumantizinoble.npctype.json": 0,
+      "fumantiziservant.npctype.json": 0,
       "fupeglacischolar.npctype.json": 0,
       "grandarena": {
         "grandarenacompetitor.npctype.json": 9,
@@ -13111,6 +13107,9 @@
         "imperialwallshield": {
           "imperialwallshield.object.json": 0
         },
+        "mantizisandwichpainting": {
+          "mantizisandwichpainting.object.json": 0
+        },
         "mantizistoragelocker": {
           "mantizistoragelocker.object.json": 0
         },
@@ -13669,7 +13668,10 @@
             "shared_precursorcrate.json": 1
           },
           "precursorcrystals": {
-            "shared_precursorcrystal.json": 2
+            "precursorcrystal1.object.json": 0,
+            "precursorcrystal2.object.json": 0,
+            "precursorcrystal3.object.json": 0,
+            "shared_precursorcrystal.json": 1
           },
           "precursordatabox": {
             "precursordatabox.object.json": 12
@@ -14351,7 +14353,7 @@
           "painting_patch.object.json": 19,
           "paintingfabricatedworld.object.json": 2,
           "paintingformergallery.object.json": 2,
-          "starrynight.object.json": 2,
+          "starrynight.object.json": 1,
           "stripe.object.json": 2,
           "stripe2.object.json": 2,
           "stripe3.object.json": 2,
@@ -15816,6 +15818,13 @@
         "elduuteleporter": {
           "elduuteleporter.object.json": 1
         },
+        "feneroxshipparts": {
+          "feneroxsensors.object.json": 0,
+          "feneroxthrustermultiple.object.json": 0,
+          "feneroxthrustersingle.object.json": 0,
+          "feneroxturretlarge.object.json": 0,
+          "feneroxturretsmall.object.json": 0
+        },
         "fu_antennae": {
           "Antena_Things_smll_totalblazingTop.object.json": 2
         },
@@ -16255,6 +16264,13 @@
         "mantizishiplockertier0": {
           "mantizishiplockertier0.object.json": 3
         },
+        "mantizishipparts": {
+          "fumantizifigurehead.object.json": 0,
+          "fumantizigreeblas.object.json": 0,
+          "fumantizileader.object.json": 0,
+          "fumantizilovelorn.object.json": 0,
+          "fumantiziturret.object.json": 0
+        },
         "mantizitechstation": {
           "mantizitechstation.object.json": 4
         },
@@ -16344,7 +16360,7 @@
           "shared_smallboosterflame.json": 0
         },
         "shared_boosterflamemantizi": {
-          "shared_boosterflamemantizi.object.json": 1
+          "shared_boosterflamemantizi.object.json": 0
         },
         "shared_captain": {
           "shared_captain.json": 8
@@ -16456,7 +16472,7 @@
           "shared_shiplightBroken.object.json": 9
         },
         "shared_shiplocker": {
-          "shared_shiplocker.json": 13,
+          "shared_shiplocker.json": 12,
           "shared_shiplocker.object.json": 13
         },
         "shared_shiplockerTier0": {
@@ -16477,7 +16493,7 @@
           "shared_techstationtier0.object.json": 8
         },
         "shared_teleporter": {
-          "shared_ier0.object.json": 3,
+          "shared_ier0.object.json": 2,
           "shared_teleporter.json": 22,
           "shared_teleporter.object.json": 2
         },
@@ -19581,7 +19597,7 @@
             "1beestation.questtemplate.json": 3,
             "2apiary.questtemplate.json": 3,
             "3basicframe.questtemplate.json": 2,
-            "4bbees.questtemplate.json": 3,
+            "4bbees.questtemplate.json": 2,
             "4bees.questtemplate.json": 3,
             "5plantflowers.questtemplate.json": 3,
             "6centrifuge.questtemplate.json": 3,
@@ -21393,7 +21409,7 @@
         },
         "redhoneycombmaterial.material.json": 1,
         "redslate2.material.json": 1,
-        "redwoodbark.material.json": 1,
+        "redwoodbark.material.json": 0,
         "retexaetherdust.material.json": 1,
         "retexaetherdustpillar.material.json": 1,
         "retexcobblestone.material.json": 4,
@@ -21446,7 +21462,7 @@
         },
         "slime2.material.json": 1,
         "slimeshipsupport.material.json": 4,
-        "slopedavianhullpanel.material.json": 3,
+        "slopedavianhullpanel.material.json": 1,
         "slopednightarblock.material.json": 1,
         "speedblock.material.json": 1,
         "spidersilkblockmik.material.json": 3,
